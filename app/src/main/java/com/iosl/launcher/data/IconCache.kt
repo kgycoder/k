@@ -1,6 +1,6 @@
 package com.iosl.launcher.data
 
-import android.graphics.AdaptiveIconDrawable
+import android.graphics.drawable.AdaptiveIconDrawable
 import android.graphics.Bitmap
 import android.graphics.Canvas
 import android.graphics.drawable.Drawable
