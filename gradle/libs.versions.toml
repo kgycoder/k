@@ -6,7 +6,7 @@ activityCompose = "1.11.0"
 lifecycle = "2.9.4"
 coreKtx = "1.17.0"
 # Kyant0/AndroidLiquidGlass. Maven Central 에서 최신 버전을 확인해 교체하세요.
-backdrop = "1.0.0-alpha16"
+backdrop = "1.0.6"
 
 [libraries]
 androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "coreKtx" }
